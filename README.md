@@ -3,7 +3,7 @@ threefish-1024.js
 
 JS implementation of Threefish-1024.
 
-It is actually C implementation from https://github.com/wernerd/Skein3Fish, edited mostly with query-replace-regexp, and with CBC and UTF-8 support.
+It is actually a C implementation from https://github.com/wernerd/Skein3Fish, edited mostly with query-replace-regexp; CBC and UTF-8 support added.
 
 Replacement patterns could be found in comments.
 
