@@ -9,4 +9,4 @@ Replacement patterns could be found in comments.
 
 Dependencies
 ------------
-[int64.js](http://docs.closure-library.googlecode.com/git/closure_goog_math_long.js.source.html), [utf8utils.js](http://ciaranj.blogspot.ru/2007/11/utf8-characters-encoding-in-javascript.html).
+[int64.js](http://docs.closure-library.googlecode.com/git/closure_goog_math_long.js.source.html) (the link is dead, added to the repository), [utf8utils.js](http://ciaranj.blogspot.ru/2007/11/utf8-characters-encoding-in-javascript.html).
